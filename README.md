@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Abhinav Singh's Cloud Journey
 
-[✍️ Introduce yourself]
+I am a Cloud Computing and DevOps Enthusiast, looking forward to main career in the same domain.
 
-[✍️ Tell us why you started this challenge]
+I am starting this challenge to polish my partial knowledge to take it to the next level of hands-on and showcase my skillset in a better way.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I want to take this challenge a little further to make the flow of continuous learning and continuous implementing a next step.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to your Twitter](https://twitter.com/cloud_zealot)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/cloudenthusiast/)
 
 ## Stepping out the door
 
