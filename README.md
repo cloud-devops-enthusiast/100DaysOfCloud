@@ -22,8 +22,8 @@ I am starting this challenge to polish my partial knowledge to take it to the ne
 
 I want to take this challenge a little further to make the flow of continuous learning and continuous implementing a next step.
 
-- [✍️ Link to your Twitter](https://twitter.com/cloud_zealot)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/cloudenthusiast/)
+- [✍️ My Twitter](https://twitter.com/cloud_zealot)
+- [✍️ My LinkedIn](https://www.linkedin.com/in/cloudenthusiast/)
 
 ## Stepping out the door
 
