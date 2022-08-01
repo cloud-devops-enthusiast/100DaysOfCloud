@@ -16,7 +16,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Abhinav Singh's Cloud Journey
 
-I am a Cloud Computing and DevOps Enthusiast, looking forward to main career in the same domain.
+I am a Cloud and DevOps Enthusiast, looking forward to main career in the same domain.
 
 I am starting this challenge to polish my partial knowledge to take it to the next level of hands-on and showcase my skillset in a better way.
 
